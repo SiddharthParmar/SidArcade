@@ -6,7 +6,7 @@ SidArcade is a remake of the classic frogger game where the objective is to get 
 #Usage
 =======
 
-1. Download the git repo from:
+1. Download the git repo from: https://github.com/SiddharthParmar/SidArcade
 2. Open the index.html file in any browser
 3. Enjoy the game
 
