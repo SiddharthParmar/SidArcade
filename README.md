@@ -10,3 +10,12 @@ Usage
 2. Open the index.html file in any browser
 3. Enjoy the game
 
+Directions
+===========
+
+1. Please use arrow keys to move around the board.
+2. Up to move up one space.
+3. Left to move left one space
+4. Right to move right one space
+5. Down to move down one space. 
+
