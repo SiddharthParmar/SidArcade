@@ -19,3 +19,7 @@ Directions
 4. Right to move right one space
 5. Down to move down one space. 
 
+Link to website
+===============
+
+https://siddharthparmar.github.io/SidArcade/
